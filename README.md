@@ -1,3 +1,4 @@
+![Do or Not](https://cdn.discordapp.com/attachments/794818958686552145/922523765747884092/doitdont.png)
 # Novelty and Familiarity
 NF
 
@@ -8,3 +9,6 @@ too mcuh novelty is scary.
 too much familiarity is boring. 
 
 a principal for project or any start up thing. glhf!
+
+# Source 
+![Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
