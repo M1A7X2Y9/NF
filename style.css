@@ -1,0 +1,36 @@
+.nov{
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(204, 0, 255);
+}
+.fam{
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+    font-weight: bolder;
+    font-size: 50px;
+    color: rgb(209, 15, 193);
+}
+
+.and{
+    font-family: Tahoma,sans-serif; 
+    font-style: bolder;
+    font-size: 40px;
+    color: rgb(209, 15, 193);
+}
+.hr{
+    padding-left: 0px;
+}
+
+.bodu{
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+    font-size: 30px;
+    color: grey;
+}
+.footer{
+    text-align: center;
+
+    background-image: linear-gradient(to right, rgba(4, 58, 138, 0.493), rgb(10, 87, 187));
+    color: rgb(10, 9, 9);
+    padding: 20px 0px;
+    padding-left: 0px;
+}   
