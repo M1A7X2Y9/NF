@@ -2,7 +2,7 @@
 # Novelty and Familiarity
 _NF_
 # if you change nothing people will move on to something else. 
--- too mcuh novelty is scary.
+-- too much novelty is scary.
 
 # if you change everything people will get bored.
 -- too much familiarity is boring. 
